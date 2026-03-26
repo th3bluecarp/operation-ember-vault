@@ -1,0 +1,2 @@
+{"timestamp": "2026-05-13T13:25:42.510070-0700", "event_type": "alert", "src_ip": "10.20.18.44", "dest_ip": "45.77.201.44", "alert": {"signature": "ET MALWARE Suspicious PowerShell Download", "severity": 2}}
+{"timestamp": "2026-05-17T03:15:01.190070-0700", "event_type": "alert", "src_ip": "10.30.44.91", "dest_ip": "198.54.117.88", "alert": {"signature": "ET INFO Large Outbound Transfer", "severity": 3}}

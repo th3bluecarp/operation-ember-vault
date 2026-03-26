@@ -1,0 +1,2 @@
+May 17 03:01:20 build-agent-03 sudo: runner : TTY=unknown ; PWD=/home/runner/work/device-firmware ; USER=root ; COMMAND=/usr/bin/rsync -az /srv/builds/ 10.30.44.91:/srv/stage/builds/
+May 17 03:01:35 build-agent-03 sshd[21811]: Accepted publickey for runner from 140.82.112.26 port 58211 ssh2: RSA SHA256:ghrunner

@@ -1,0 +1,3 @@
+aws s3 cp artifact.tar.gz s3://ev-artifacts-prod/tmp/
+kubectl -n telemetry-api get secrets
+rsync -az /srv/builds/ 10.30.44.91:/srv/stage/builds/

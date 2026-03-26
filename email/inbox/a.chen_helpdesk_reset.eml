@@ -1,0 +1,10 @@
+From: "IT HelpDesk" <it-helpdesk@embervault-help.com>
+To: a.chen@embervault.com
+Subject: VPN certificate sync required
+Date: Wed, 13 May 2026 13:04:44 -0700
+Content-Type: text/plain; charset=UTF-8
+
+Alex,
+
+We are resyncing legacy Pulse Secure certificates after last night's change window.
+If prompted repeatedly by Okta Verify, approve the sync request to keep the VPN profile active.

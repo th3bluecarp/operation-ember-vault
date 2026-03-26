@@ -1,0 +1,4 @@
+[+] Added GPO: ChromeUpdaterTemp
+Path: \\embersys.local\SysVol\embersys.local\Policies\{18AC-9911-TEMP}
+Startup Script: \\DC01\SysVol\scripts\cu.bat
+Removed: 2026-05-18 00:18:48

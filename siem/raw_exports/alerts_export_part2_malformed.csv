@@ -1,0 +1,226 @@
+ts,asset,severity,message,status
+2026-05-12 10:15:00,BLD-AG03,high,EDiscovery export completed,alert
+2026-05-12 10:22:00,BLD-AG03,high,OAuth grant added,suppressed
+2026-05-12 10:29:00,HR-LT19,medium,Legacy VPN cert used,alert
+2026-05-12 10:36:00,BLD-AG03,high,Legacy VPN cert used,alert
+2026-05-12 10:43:00,VPN-GW01,high,Known backup job completed,info
+2026-05-12 10:50:00,ENG-WS51,medium,New browser extension installed,info
+2026-05-12 10:57:00,VPN-GW01,low,Password spray detection (low confidence),alert
+2026-05-12 11:04:00,BLD-AG03,high,Large outbound transfer,suppressed
+2026-05-12 11:11:00,VPN-GW01,medium,EDiscovery export completed,alert
+2026-05-12 11:18:00,ENG-WS51,medium,User added to local administrators,suppressed
+2026-05-12 11:25:00,ENG-WS51,low,User added to local administrators,info
+2026-05-12 11:32:00,ENG-WS51,low,New browser extension installed,alert
+2026-05-12 11:39:00,VPN-GW01,high,Password spray detection (low confidence),alert
+2026-05-12 11:46:00,SP01,high,Large outbound transfer,suppressed
+2026-05-12 11:53:00,DC01,medium,Large outbound transfer,closed
+2026-05-12 12:00:00,HR-LT19,low,Large outbound transfer,alert
+2026-05-12 12:07:00,VPN-GW01,medium,OAuth grant added,info
+2026-05-12 12:14:00,BLD-AG03,medium,Legacy VPN cert used,closed
+2026-05-12 12:21:00,HR-LT19,medium,Large outbound transfer,alert
+2026-05-12 12:28:00;ENG-WS51,high,User added to local administrators,suppressed
+2026-05-12 12:35:00,SP01,high,Known backup job completed,closed
+2026-05-12 12:42:00,DC01,low,Known backup job completed,info
+2026-05-12 12:49:00,SP01,low,Known backup job completed,closed
+2026-05-12 12:56:00,BLD-AG03,medium,OAuth grant added,suppressed
+2026-05-12 13:03:00;FIN-WS22,high,Unsigned PowerShell execution,suppressed
+2026-05-12 13:10:00,VPN-GW01,high,Impossible travel suppressed by known proxy,info
+2026-05-12 13:17:00,FIN-WS22,high,Known backup job completed,info
+2026-05-12 13:24:00,SP01,high,Known backup job completed,closed
+2026-05-12 13:31:00;SP01,medium,User added to local administrators,alert,"extra
+2026-05-12 13:38:00,FIN-WS22,medium,Legacy VPN cert used,alert
+2026-05-12 13:45:00,VPN-GW01,low,Impossible travel suppressed by known proxy,info
+2026-05-12 13:52:00,DC01,high,OAuth grant added,suppressed
+2026-05-12 13:59:00,ENG-WS51,low,Large outbound transfer,suppressed,"extra
+2026-05-12 14:06:00,SP01,low,User added to local administrators,suppressed
+2026-05-12 14:13:00,ENG-WS51,low,OAuth grant added,closed
+2026-05-12 14:20:00,HR-LT19,low,OAuth grant added,info
+2026-05-12 14:27:00,DC01,medium,EDiscovery export completed,closed
+2026-05-12 14:34:00,BLD-AG03,medium,OAuth grant added,alert
+2026-05-12 14:41:00,SP01,high,Password spray detection (low confidence),closed
+2026-05-12 14:48:00,ENG-WS51,low,Large outbound transfer,alert
+2026-05-12 14:55:00;FIN-WS22,low,Password spray detection (low confidence),suppressed
+2026-05-12 15:02:00,HR-LT19,medium,User added to local administrators,alert
+2026-05-12 15:09:00,VPN-GW01,high,New browser extension installed,alert
+2026-05-12 15:16:00,DC01,low,Large outbound transfer,closed
+2026-05-12 15:23:00,ENG-WS51,low,User added to local administrators,suppressed
+2026-05-12 15:30:00,BLD-AG03,high,User added to local administrators,alert
+2026-05-12 15:37:00,SP01,medium,Impossible travel suppressed by known proxy,suppressed
+2026-05-12 15:44:00,DC01,low,OAuth grant added,suppressed
+2026-05-12 15:51:00,FIN-WS22,high,Impossible travel suppressed by known proxy,alert
+2026-05-12 15:58:00,VPN-GW01,low,EDiscovery export completed,closed
+2026-05-12 16:05:00,SP01,medium,EDiscovery export completed,alert
+2026-05-12 16:12:00,BLD-AG03,high,Impossible travel suppressed by known proxy,suppressed
+2026-05-12 16:19:00,FIN-WS22,low,Unsigned PowerShell execution,info
+2026-05-12 16:26:00,DC01,medium,User added to local administrators,closed
+2026-05-12 16:33:00,DC01,medium,Password spray detection (low confidence),closed
+2026-05-12 16:40:00,HR-LT19,high,User added to local administrators,alert
+2026-05-12 16:47:00,SP01,low,Legacy VPN cert used,info
+2026-05-12 16:54:00,ENG-WS51,medium,Known backup job completed,suppressed
+2026-05-12 17:01:00,HR-LT19,medium,New browser extension installed,suppressed
+2026-05-12 17:08:00,SP01,low,New browser extension installed,suppressed
+2026-05-12 17:15:00,VPN-GW01,low,OAuth grant added,closed
+2026-05-12 17:22:00,DC01,low,Legacy VPN cert used,info
+2026-05-12 17:29:00,DC01,high,Known backup job completed,suppressed
+2026-05-12 17:36:00,HR-LT19,low,Known backup job completed,alert,"extra
+2026-05-12 17:43:00,DC01,medium,OAuth grant added,suppressed
+2026-05-12 17:50:00,ENG-WS51,low,Password spray detection (low confidence),closed
+2026-05-12 17:57:00,SP01,low,Password spray detection (low confidence),info
+2026-05-12 18:04:00,BLD-AG03,high,User added to local administrators,suppressed
+2026-05-12 18:11:00,BLD-AG03,medium,Impossible travel suppressed by known proxy,closed
+2026-05-12 18:18:00,SP01,medium,User added to local administrators,info
+2026-05-12 18:25:00,SP01,high,Password spray detection (low confidence),alert
+2026-05-12 18:32:00,SP01,medium,Large outbound transfer,suppressed
+2026-05-12 18:39:00,BLD-AG03,high,New browser extension installed,closed
+2026-05-12 18:46:00,HR-LT19,high,Password spray detection (low confidence),closed
+2026-05-12 18:53:00,SP01,high,Known backup job completed,alert
+2026-05-12 19:00:00,VPN-GW01,high,Unsigned PowerShell execution,alert
+2026-05-12 19:07:00,VPN-GW01,low,Large outbound transfer,info
+2026-05-12 19:14:00,BLD-AG03,medium,Password spray detection (low confidence),closed
+2026-05-12 19:21:00,FIN-WS22,medium,Large outbound transfer,closed
+2026-05-12 19:28:00,HR-LT19,low,Impossible travel suppressed by known proxy,closed
+2026-05-12 19:35:00,SP01,high,User added to local administrators,suppressed
+2026-05-12 19:42:00,HR-LT19,medium,Known backup job completed,closed
+2026-05-12 19:49:00,BLD-AG03,high,Large outbound transfer,closed
+2026-05-12 19:56:00,HR-LT19,high,Legacy VPN cert used,info
+2026-05-12 20:03:00,HR-LT19,low,User added to local administrators,suppressed,"extra
+2026-05-12 20:10:00,ENG-WS51,high,Password spray detection (low confidence),info
+2026-05-12 20:17:00,BLD-AG03,high,Large outbound transfer,suppressed
+2026-05-12 20:24:00;HR-LT19,high,Impossible travel suppressed by known proxy,suppressed
+2026-05-12 20:31:00,DC01,high,OAuth grant added,alert
+2026-05-12 20:38:00,SP01,low,Unsigned PowerShell execution,info
+2026-05-12 20:45:00,DC01,medium,EDiscovery export completed,info,"extra
+2026-05-12 20:52:00,FIN-WS22,medium,OAuth grant added,info
+2026-05-12 20:59:00,FIN-WS22,medium,Known backup job completed,suppressed
+2026-05-12 21:06:00,HR-LT19,low,Known backup job completed,closed
+2026-05-12 21:13:00,HR-LT19,high,Impossible travel suppressed by known proxy,alert
+2026-05-12 21:20:00,FIN-WS22,high,Impossible travel suppressed by known proxy,suppressed
+2026-05-12 21:27:00,FIN-WS22,low,Known backup job completed,suppressed
+2026-05-12 21:34:00,DC01,medium,Password spray detection (low confidence),info
+2026-05-12 21:41:00,SP01,low,User added to local administrators,alert
+2026-05-12 21:48:00,FIN-WS22,high,User added to local administrators,suppressed
+2026-05-12 21:55:00,ENG-WS51,low,New browser extension installed,closed
+2026-05-12 22:02:00,HR-LT19,medium,Unsigned PowerShell execution,closed
+2026-05-12 22:09:00,FIN-WS22,high,Password spray detection (low confidence),info
+2026-05-12 22:16:00,DC01,high,Impossible travel suppressed by known proxy,alert
+2026-05-12 22:23:00,ENG-WS51,medium,Unsigned PowerShell execution,alert
+2026-05-12 22:30:00,DC01,low,Impossible travel suppressed by known proxy,suppressed
+2026-05-12 22:37:00,DC01,low,Large outbound transfer,alert
+2026-05-12 22:44:00,HR-LT19,high,EDiscovery export completed,suppressed
+2026-05-12 22:51:00,SP01,low,Password spray detection (low confidence),closed
+2026-05-12 22:58:00,DC01,low,New browser extension installed,suppressed
+2026-05-12 23:05:00,SP01,low,Unsigned PowerShell execution,info
+2026-05-12 23:12:00,BLD-AG03,low,Legacy VPN cert used,info
+2026-05-12 23:19:00,DC01,high,User added to local administrators,closed
+2026-05-12 23:26:00,BLD-AG03,medium,EDiscovery export completed,info
+2026-05-12 23:33:00,FIN-WS22,low,Impossible travel suppressed by known proxy,info
+2026-05-12 23:40:00,ENG-WS51,high,EDiscovery export completed,info,"extra
+2026-05-12 23:47:00;VPN-GW01,high,Unsigned PowerShell execution,closed
+2026-05-12 23:54:00,SP01,high,Password spray detection (low confidence),alert
+2026-05-13 00:01:00,SP01,medium,Known backup job completed,closed
+2026-05-13 00:08:00,VPN-GW01,high,Legacy VPN cert used,info
+2026-05-13 00:15:00;HR-LT19,medium,Impossible travel suppressed by known proxy,suppressed
+2026-05-13 00:22:00;BLD-AG03,high,OAuth grant added,alert
+2026-05-13 00:29:00,HR-LT19,high,EDiscovery export completed,info
+2026-05-13 00:36:00,HR-LT19,high,EDiscovery export completed,info
+2026-05-13 00:43:00,VPN-GW01,low,Impossible travel suppressed by known proxy,closed
+2026-05-13 00:50:00,VPN-GW01,high,Known backup job completed,alert
+2026-05-13 00:57:00;SP01,medium,Impossible travel suppressed by known proxy,alert
+2026-05-13 01:04:00,ENG-WS51,low,User added to local administrators,info
+2026-05-13 01:11:00;SP01,high,Known backup job completed,info
+2026-05-13 01:18:00,SP01,low,Legacy VPN cert used,suppressed
+2026-05-13 01:25:00,SP01,high,EDiscovery export completed,alert
+2026-05-13 01:32:00,VPN-GW01,medium,Password spray detection (low confidence),alert
+2026-05-13 01:39:00,VPN-GW01,high,Unsigned PowerShell execution,alert
+2026-05-13 01:46:00,FIN-WS22,medium,Unsigned PowerShell execution,closed
+2026-05-13 01:53:00,BLD-AG03,medium,OAuth grant added,suppressed
+2026-05-13 02:00:00;FIN-WS22,high,User added to local administrators,closed
+2026-05-13 02:07:00,FIN-WS22,low,Password spray detection (low confidence),suppressed
+2026-05-13 02:14:00,ENG-WS51,high,EDiscovery export completed,closed
+2026-05-13 02:21:00,FIN-WS22,low,Known backup job completed,suppressed
+2026-05-13 02:28:00,VPN-GW01,low,Password spray detection (low confidence),info
+2026-05-13 02:35:00;HR-LT19,low,Known backup job completed,info
+2026-05-13 02:42:00,VPN-GW01,medium,Impossible travel suppressed by known proxy,suppressed
+2026-05-13 02:49:00,FIN-WS22,medium,Known backup job completed,suppressed
+2026-05-13 02:56:00,ENG-WS51,low,Known backup job completed,suppressed
+2026-05-13 03:03:00,SP01,high,User added to local administrators,suppressed
+2026-05-13 03:10:00,SP01,low,Password spray detection (low confidence),suppressed
+2026-05-13 03:17:00,FIN-WS22,high,Unsigned PowerShell execution,suppressed
+2026-05-13 03:24:00,FIN-WS22,medium,Password spray detection (low confidence),info
+2026-05-13 03:31:00,VPN-GW01,high,User added to local administrators,closed
+2026-05-13 03:38:00,DC01,low,Large outbound transfer,closed
+2026-05-13 03:45:00,DC01,low,Unsigned PowerShell execution,info
+2026-05-13 03:52:00,HR-LT19,high,Large outbound transfer,closed
+2026-05-13 03:59:00,DC01,low,Legacy VPN cert used,info
+2026-05-13 04:06:00,BLD-AG03,medium,OAuth grant added,alert
+2026-05-13 04:13:00,HR-LT19,medium,Large outbound transfer,alert
+2026-05-13 04:20:00,DC01,low,Password spray detection (low confidence),suppressed
+2026-05-13 04:27:00,ENG-WS51,high,User added to local administrators,alert
+2026-05-13 04:34:00,BLD-AG03,medium,Password spray detection (low confidence),suppressed
+2026-05-13 04:41:00,DC01,low,Unsigned PowerShell execution,info
+2026-05-13 04:48:00,DC01,low,Password spray detection (low confidence),alert,"extra
+2026-05-13 04:55:00,VPN-GW01,low,Impossible travel suppressed by known proxy,info
+2026-05-13 05:02:00;ENG-WS51,high,EDiscovery export completed,info
+2026-05-13 05:09:00,BLD-AG03,low,Large outbound transfer,info
+2026-05-13 05:16:00,HR-LT19,high,New browser extension installed,suppressed
+2026-05-13 05:23:00,HR-LT19,high,Legacy VPN cert used,alert
+2026-05-13 05:30:00,SP01,high,EDiscovery export completed,alert
+2026-05-13 05:37:00,ENG-WS51,high,Impossible travel suppressed by known proxy,closed
+2026-05-13 05:44:00,FIN-WS22,low,Known backup job completed,alert
+2026-05-13 05:51:00,VPN-GW01,low,Known backup job completed,alert
+2026-05-13 05:58:00,FIN-WS22,low,Password spray detection (low confidence),suppressed
+2026-05-13 06:05:00,HR-LT19,high,New browser extension installed,closed
+2026-05-13 06:12:00,ENG-WS51,high,EDiscovery export completed,info
+2026-05-13 06:19:00,DC01,medium,Known backup job completed,alert
+2026-05-13 06:26:00,DC01,high,Password spray detection (low confidence),info
+2026-05-13 06:33:00,FIN-WS22,low,Unsigned PowerShell execution,closed
+2026-05-13 06:40:00,DC01,medium,Unsigned PowerShell execution,alert
+2026-05-13 06:47:00,VPN-GW01,high,Unsigned PowerShell execution,suppressed
+2026-05-13 06:54:00,SP01,medium,Large outbound transfer,info
+2026-05-13 07:01:00,FIN-WS22,low,Password spray detection (low confidence),info
+2026-05-13 07:08:00,VPN-GW01,low,User added to local administrators,info
+2026-05-13 07:15:00,BLD-AG03,high,OAuth grant added,suppressed
+2026-05-13 07:22:00,VPN-GW01,low,Large outbound transfer,alert
+2026-05-13 07:29:00,BLD-AG03,medium,New browser extension installed,suppressed
+2026-05-13 07:36:00,HR-LT19,low,User added to local administrators,closed
+2026-05-13 07:43:00,DC01,medium,OAuth grant added,alert,"extra
+2026-05-13 07:50:00,ENG-WS51,high,Large outbound transfer,suppressed
+2026-05-13 07:57:00,VPN-GW01,high,User added to local administrators,suppressed
+2026-05-13 08:04:00,SP01,medium,Impossible travel suppressed by known proxy,info
+2026-05-13 08:11:00,FIN-WS22,low,Large outbound transfer,suppressed
+2026-05-13 08:18:00,FIN-WS22,medium,Password spray detection (low confidence),info
+2026-05-13 08:25:00,BLD-AG03,high,OAuth grant added,info
+2026-05-13 08:32:00,ENG-WS51,high,New browser extension installed,alert
+2026-05-13 08:39:00,BLD-AG03,medium,EDiscovery export completed,closed
+2026-05-13 08:46:00,DC01,high,New browser extension installed,alert
+2026-05-13 08:53:00,ENG-WS51,low,Impossible travel suppressed by known proxy,suppressed
+2026-05-13 09:00:00,ENG-WS51,high,OAuth grant added,suppressed
+2026-05-13 09:07:00,VPN-GW01,low,Large outbound transfer,info
+2026-05-13 09:14:00,VPN-GW01,medium,Legacy VPN cert used,alert
+2026-05-13 09:21:00,VPN-GW01,low,Large outbound transfer,alert
+2026-05-13 09:28:00,VPN-GW01,high,Known backup job completed,suppressed
+2026-05-13 09:35:00,SP01,high,Known backup job completed,closed
+2026-05-13 09:42:00,HR-LT19,low,Large outbound transfer,info
+2026-05-13 09:49:00,SP01,high,EDiscovery export completed,closed
+2026-05-13 09:56:00,SP01,high,New browser extension installed,suppressed
+2026-05-13 10:03:00,SP01,low,Known backup job completed,alert
+2026-05-13 10:10:00,VPN-GW01,medium,Impossible travel suppressed by known proxy,suppressed
+2026-05-13 10:17:00,BLD-AG03,low,OAuth grant added,suppressed
+2026-05-13 10:24:00,VPN-GW01,medium,Large outbound transfer,info
+2026-05-13 10:31:00,BLD-AG03,medium,Legacy VPN cert used,closed
+2026-05-13 10:38:00,HR-LT19,low,User added to local administrators,info
+2026-05-13 10:45:00,BLD-AG03,low,Unsigned PowerShell execution,alert
+2026-05-13 10:52:00,HR-LT19,medium,Known backup job completed,closed
+2026-05-13 10:59:00,HR-LT19,high,OAuth grant added,alert
+2026-05-13 11:06:00,DC01,medium,Large outbound transfer,closed
+2026-05-13 11:13:00,DC01,medium,Large outbound transfer,alert
+2026-05-13 11:20:00;FIN-WS22,medium,Unsigned PowerShell execution,info
+2026-05-13 11:27:00,BLD-AG03,low,Password spray detection (low confidence),suppressed,"extra
+2026-05-13 11:34:00,BLD-AG03,low,Unsigned PowerShell execution,suppressed
+2026-05-13 11:41:00;ENG-WS51,high,New browser extension installed,suppressed
+2026-05-13 11:48:00,BLD-AG03,low,Password spray detection (low confidence),closed
+2026-05-13 11:55:00,FIN-WS22,low,OAuth grant added,alert
+2026-05-13 12:02:00,SP01,low,Known backup job completed,suppressed
+2026-05-13 12:09:00,VPN-GW01,high,Password spray detection (low confidence),info
+2026-05-13 12:16:00,VPN-GW01,high,User added to local administrators,alert
+2026-05-13 12:23:00,BLD-AG03,medium,Password spray detection (low confidence),info

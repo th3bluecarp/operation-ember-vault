@@ -1,0 +1,3 @@
+FIN-WS22/memdump.bin: rule CobaltStrike_Profile_JQuery
+FIN-WS22/memdump.bin: rule RClone_StringSet
+FIN-WS22/cu.exe: rule CommodityRansom_LockSmall

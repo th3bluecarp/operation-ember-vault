@@ -1,0 +1,4 @@
+File: offer_talk.png
+Uploaded to Slack: 2026-05-16 11:11:01
+Saved from SnippingTool on host HR-LT19 at 2026-05-16 11:06:22
+Visible chat timestamps in image do not align with actual exported thread order

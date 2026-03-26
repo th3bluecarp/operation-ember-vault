@@ -1,0 +1,6 @@
+2026-05-11T08:18:02-07:00 10.20.33.19 j.patel portal-docs-review.com GET /session/5GHD-991A 200 "Mozilla/5.0" category=NewlyObserved bytes=18412
+2026-05-11T08:18:03-07:00 10.20.33.19 j.patel cdn-auth-review.net GET /assets/login.js 200 "Mozilla/5.0" category=NewlyObserved bytes=43112
+2026-05-13T13:22:10-07:00 10.20.18.44 a.chen fastcdn-helpdesk.net GET /stage.ps1 200 "PowerShell/7.4" category=NewlyObserved bytes=8121
+2026-05-13T13:25:41-07:00 10.20.18.44 a.chen 45.77.201.44 CONNECT :443 200 "chrome.exe" ja3=72a589da586844d7f0818ce684948eea bytes=291833
+2026-05-17T03:14:59-07:00 10.30.44.91 svc_backup object-delivery-cloud.net PUT /upload/part/7781 200 "curl/8.5.0" category=NewlyObserved bytes=18422000921
+2026-05-17T03:16:08-07:00 10.20.44.18 backupsvc cloudbackup-vendor.com PUT /ingest/api/job/2191 200 "VeeamAgent/12" category=Business bytes=3312001

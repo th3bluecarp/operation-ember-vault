@@ -1,0 +1,3 @@
+Ticket #024
+Issue: password reset
+Resolved: yes

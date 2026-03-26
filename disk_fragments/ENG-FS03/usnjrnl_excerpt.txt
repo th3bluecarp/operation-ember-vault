@@ -1,0 +1,4 @@
+FileCreate \staging\legal.7z
+FileCreate \staging\eng.7z
+FileRename \GPO\ChromeUpdaterTemp
+FileCreate \README-EMBER.txt

@@ -1,0 +1,4 @@
+2026-05-11 08:22:40 client=45.12.77.91 user=j.patel@embervault.com verb=GET site=/sites/MA-Room path=/Shared Documents/Acquirer_Request_List_v18.xlsx status=200
+2026-05-11 08:25:12 client=45.12.77.91 user=j.patel@embervault.com verb=GET site=/sites/MA-Room path=/Shared Documents/Target Financial Model - Clean.xlsx status=200
+2026-05-15 22:13:10 client=45.12.77.91 user=j.patel@embervault.com verb=GET site=/sites/Legal path=/Shared Documents/Board_Slides_AcquisitionOptions.pdf status=200
+2026-05-15 22:17:44 client=52.96.44.18 user=svc_ediscovery@embervault.com verb=POST site=/compliance path=/export/jobs/2911 status=202

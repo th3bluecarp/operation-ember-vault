@@ -1,0 +1,4 @@
+NAME               READY STATUS  AGE
+api-rel-8821       1/1   Running 3m
+telemetry-api-01   1/1   Running 21d
+secret/telemetry-api-secrets type=Opaque data=7

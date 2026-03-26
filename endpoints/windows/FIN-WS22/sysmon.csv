@@ -1,0 +1,5 @@
+UtcTime,EventID,Image,CommandLine,ParentImage,User,DestinationIp,DestinationHostname,Hashes
+2026-05-13T20:22:10Z,1,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,powershell -w hidden -enc SQBFAFgA...,C:\Program Files\Google\Chrome\Application\chrome.exe,EMBERSYS\a.chen,,,SHA256=aa11
+2026-05-13T20:22:12Z,3,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,,C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,EMBERSYS\a.chen,45.77.201.44,fastcdn-helpdesk.net,SHA256=aa11
+2026-05-17T09:22:40Z,1,C:\Windows\System32\psexecsvc.exe,psexecsvc.exe -accepteula \\ENG-FS03 cmd /c whoami,C:\Windows\System32\services.exe,EMBERSYS\svc_backup,,,SHA256=bb22
+2026-05-18T07:59:10Z,7,C:\ProgramData\ChromeUpdater\cu.exe,,C:\Windows\System32\services.exe,NT AUTHORITY\SYSTEM,,,SHA256=cc33

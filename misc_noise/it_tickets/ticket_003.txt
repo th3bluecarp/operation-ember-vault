@@ -1,0 +1,3 @@
+Ticket #003
+Issue: password reset
+Resolved: yes

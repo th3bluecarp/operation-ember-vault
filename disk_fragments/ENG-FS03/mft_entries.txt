@@ -1,0 +1,4 @@
+2026-05-17 02:58:12 C:\staging\legal.7z created
+2026-05-17 02:59:44 C:\staging\eng.7z created
+2026-05-18 00:03:11 C:\README-EMBER.txt created
+2026-05-18 00:03:12 C:\Finance\Q2\budget.xlsx.ember appended

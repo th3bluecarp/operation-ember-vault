@@ -1,0 +1,5 @@
+PID   PPID Name            CreateTime
+4820  4300 chrome.exe      2026-05-13 13:21:58
+4921  4820 powershell.exe  2026-05-13 13:22:10
+6188  6120 psexecsvc.exe   2026-05-17 02:22:40
+7004  6880 cu.exe          2026-05-18 00:07:55

@@ -1,0 +1,17 @@
+[
+  {
+    "ts": "2026-05-13T13:22:15-07:00",
+    "severity": "high",
+    "host": "FIN-WS22",
+    "name": "Encoded PowerShell + outbound download",
+    "sha256": "aa11",
+    "status": "triaged_late"
+  },
+  {
+    "ts": "2026-05-18T12:18:39-07:00",
+    "severity": "critical",
+    "host": "FIN-WS22",
+    "name": "Memory config resembles Cobalt Strike but config parse incomplete",
+    "status": "investigating"
+  }
+]

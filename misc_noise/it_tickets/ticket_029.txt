@@ -1,0 +1,3 @@
+Ticket #029
+Issue: password reset
+Resolved: yes

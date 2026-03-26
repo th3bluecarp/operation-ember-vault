@@ -1,0 +1,2 @@
+{"ts":"2026-05-14T11:41:15Z","verb":"get","user":"system:serviceaccount:telemetry-api:deploy-bot","resource":"secrets","name":"telemetry-api-secrets","sourceIPs":["140.82.112.26"]}
+{"ts":"2026-05-14T11:42:02Z","verb":"create","user":"system:serviceaccount:telemetry-api:deploy-bot","resource":"pods","name":"api-rel-8821","sourceIPs":["140.82.112.26"]}

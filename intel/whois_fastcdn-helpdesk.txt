@@ -1,0 +1,6 @@
+Domain Name: fastcdn-helpdesk.net
+Creation Date: 2026-05-12
+Registrar: Obscure Registrar LLC
+Registrant Country: PA
+Name Server: ns1.route-rnd.net
+Name Server: ns2.route-rnd.net

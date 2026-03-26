@@ -1,0 +1,9 @@
+published,actor.alternateId,eventType,outcome.result,client.ipAddress,securityContext.asOrg,client.userAgent.rawUserAgent,authenticationContext.externalSessionId,displayMessage
+2026-05-11T08:19:11-07:00,j.patel@embervault.com,user.authentication.sso,SUCCESS,98.141.22.19,AS7922 Comcast Cable,Mozilla/5.0,d2a0ff93,MFA completed
+2026-05-11T08:19:54-07:00,j.patel@embervault.com,user.session.start,SUCCESS,98.141.22.19,AS7922 Comcast Cable,Mozilla/5.0,d2a0ff93,New session cookie issued
+2026-05-11T08:21:40-07:00,j.patel@embervault.com,policy.evaluate_sign_on,SUCCESS,45.12.77.91,AS9009 M247,Mozilla/5.0,e11bc812,Session reuse; no fresh factor
+2026-05-13T13:09:03-07:00,a.chen@embervault.com,user.mfa.okta_verify.deny_push,SUCCESS,181.44.9.22,AS7303 Telecom Argentina,OktaVerify/8.1,bb210a91,Push denied
+2026-05-13T13:09:10-07:00,a.chen@embervault.com,user.mfa.okta_verify.deny_push,SUCCESS,181.44.9.22,AS7303 Telecom Argentina,OktaVerify/8.1,bb210a91,Push denied
+2026-05-13T13:09:17-07:00,a.chen@embervault.com,user.mfa.okta_verify.deny_push,SUCCESS,181.44.9.22,AS7303 Telecom Argentina,OktaVerify/8.1,bb210a91,Push denied
+2026-05-13T13:09:25-07:00,a.chen@embervault.com,user.mfa.okta_verify.approve_push,SUCCESS,181.44.9.22,AS7303 Telecom Argentina,OktaVerify/8.1,bb210a91,Push approved
+2026-05-13T13:09:33-07:00,a.chen@embervault.com,user.authentication.sso,SUCCESS,181.44.9.22,AS7303 Telecom Argentina,Mozilla/5.0,bb210a91,Post-push auth success

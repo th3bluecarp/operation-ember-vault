@@ -1,0 +1,3 @@
+Ticket #001
+Issue: Chrome update prompt
+Resolved: yes

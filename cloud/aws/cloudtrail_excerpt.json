@@ -1,0 +1,31 @@
+[
+  {
+    "eventTime": "2026-05-14T11:10:57Z",
+    "eventName": "GetObject",
+    "userIdentity": {
+      "type": "AssumedRole",
+      "sessionContext": {
+        "sessionIssuer": {
+          "userName": "GitHubActionsRole"
+        }
+      }
+    },
+    "sourceIPAddress": "140.82.112.26",
+    "requestParameters": {
+      "bucketName": "ev-artifacts-prod",
+      "key": "tmp/seed.txt"
+    }
+  },
+  {
+    "eventTime": "2026-05-14T11:41:15Z",
+    "eventName": "GetSecretValue",
+    "userIdentity": {
+      "type": "IAMUser",
+      "userName": "ci-maint"
+    },
+    "sourceIPAddress": "140.82.112.26",
+    "requestParameters": {
+      "secretId": "telemetry-api/db-prod"
+    }
+  }
+]

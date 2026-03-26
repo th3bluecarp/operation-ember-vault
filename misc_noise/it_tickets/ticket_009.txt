@@ -1,0 +1,3 @@
+Ticket #009
+Issue: Teams lag
+Resolved: yes

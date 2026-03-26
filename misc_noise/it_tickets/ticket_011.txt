@@ -1,0 +1,3 @@
+Ticket #011
+Issue: printer jam
+Resolved: yes

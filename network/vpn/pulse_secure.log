@@ -1,0 +1,4 @@
+2026-05-12 01:12:14 user=j.patel src=198.51.100.72 result=SUCCESS realm=Legacy-Cert cert_subject=CN=Jaya Patel-OLD endpoint=unknown
+2026-05-12 01:15:11 user=j.patel src=198.51.100.72 resource=\\old-fs\public result=SUCCESS
+2026-05-17 02:14:27 user=svc_backup src=181.44.9.22 result=SUCCESS realm=Vendors endpoint=WIN10-LTSC
+2026-05-17 02:15:18 user=svc_backup src=181.44.9.22 resource=RDP:10.20.44.91 result=SUCCESS

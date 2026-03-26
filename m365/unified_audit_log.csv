@@ -1,0 +1,6 @@
+CreationTime,RecordType,UserId,Operation,ObjectId,ClientIP,UserAgent
+2026-05-11T08:22:40-07:00,SharePointFileOperation,j.patel@embervault.com,Accessed file,/sites/MA-Room/Shared Documents/Acquirer_Request_List_v18.xlsx,45.12.77.91,Mozilla/5.0
+2026-05-11T08:25:12-07:00,SharePointFileOperation,j.patel@embervault.com,Downloaded file,/sites/MA-Room/Shared Documents/Target Financial Model - Clean.xlsx,45.12.77.91,Mozilla/5.0
+2026-05-15T22:08:48-07:00,SearchExport,j.patel@embervault.com,Compliance search export started,M&A-Label Export May 15,45.12.77.91,Mozilla/5.0
+2026-05-15T22:13:10-07:00,SharePointFileOperation,j.patel@embervault.com,Downloaded file,/sites/Legal/Shared Documents/Board_Slides_AcquisitionOptions.pdf,45.12.77.91,Mozilla/5.0
+2026-05-16T11:09:14-07:00,TeamsMessageRead,e.russo@embervault.com,Read message,Negotiation prep thread,73.112.44.91,Edge/136

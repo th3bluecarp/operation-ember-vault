@@ -1,0 +1,5 @@
+portal-docs-review.com,104.21.88.44,2026-05-09,2026-05-19
+cdn-auth-review.net,172.67.201.9,2026-05-09,2026-05-21
+fastcdn-helpdesk.net,45.77.201.44,2026-05-12,2026-06-02
+object-delivery-cloud.net,198.54.117.88,2026-05-16,2026-06-18
+cloudbackup-vendor.com,203.0.113.17,2024-03-11,active
