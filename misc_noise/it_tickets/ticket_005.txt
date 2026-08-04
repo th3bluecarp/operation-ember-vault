@@ -1,3 +1,0 @@
-Ticket #005
-Issue: password reset
-Resolved: yes

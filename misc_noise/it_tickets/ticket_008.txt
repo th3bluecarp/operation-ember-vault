@@ -1,3 +1,0 @@
-Ticket #008
-Issue: Teams lag
-Resolved: yes

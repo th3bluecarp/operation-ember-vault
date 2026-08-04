@@ -1,3 +1,0 @@
-Ticket #019
-Issue: printer jam
-Resolved: yes

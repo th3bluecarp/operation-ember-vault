@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-04T23:49:09.281Z",
+  "deterministic_seed": 2172805504,
+  "coverage": {
+    "start": "2026-05-12T00:00:00.000Z",
+    "end": "2026-05-19T00:00:00.000Z"
+  },
+  "record_counts": {
+    "identity": 2001,
+    "proxy": 8076,
+    "cloud": 3279,
+    "dns": 5758,
+    "endpoint": 1435
+  },
+  "note": "Fictional deterministic background telemetry; scenario evidence remains in source-specific directories."
+}

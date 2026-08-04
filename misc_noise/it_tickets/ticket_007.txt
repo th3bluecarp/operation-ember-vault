@@ -1,3 +1,0 @@
-Ticket #007
-Issue: Chrome update prompt
-Resolved: yes

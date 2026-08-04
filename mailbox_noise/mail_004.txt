@@ -1,7 +1,0 @@
-2026-05-11 note 1 normal
-2026-05-11 note 2 retry
-2026-05-16 note 3 normal
-2026-05-14 note 4 review
-2026-05-17 note 5 normal
-2026-05-16 note 6 normal
-2026-05-13 note 7 retry

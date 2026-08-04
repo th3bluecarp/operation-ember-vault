@@ -1,3 +1,0 @@
-Ticket #015
-Issue: VPN timeout
-Resolved: yes

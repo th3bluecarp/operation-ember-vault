@@ -1,3 +1,0 @@
-Ticket #021
-Issue: VPN timeout
-Resolved: yes
