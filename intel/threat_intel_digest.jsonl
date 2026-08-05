@@ -1,0 +1,4 @@
+{"published":"2026-05-12T09:00:00Z","indicator":"login-review-support.com","type":"domain","confidence":72,"source":"commercial-feed-a","first_seen":"2026-05-09T18:22:14Z","tags":["credential-phishing","newly-registered"]}
+{"published":"2026-05-13T13:20:00Z","indicator":"198.51.100.77","type":"ipv4","confidence":41,"source":"community-feed","first_seen":"2026-04-28T01:11:48Z","tags":["shared-hosting","scanner"]}
+{"published":"2026-05-15T06:15:00Z","indicator":"cdn-systempatch.net","type":"domain","confidence":86,"source":"commercial-feed-b","first_seen":"2026-05-14T03:04:29Z","tags":["payload-hosting","powershell"]}
+{"published":"2026-05-17T16:40:00Z","indicator":"203.0.113.214","type":"ipv4","confidence":63,"source":"internal-enrichment","first_seen":"2026-05-16T11:43:02Z","tags":["anonymous-vps","possible-exfil"]}
